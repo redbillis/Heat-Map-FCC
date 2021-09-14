@@ -1,6 +1,6 @@
 <h1>Heat Map</h1>
 
-Link to the page:
+Link to the page: https://redbillis.github.io/Heat-Map-FCC/
 
 Visualizing Data with a Heat Map for the Data Visualization Certification from FreeCodeCamp.
 
